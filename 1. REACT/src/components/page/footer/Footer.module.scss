@@ -1,0 +1,27 @@
+footer{
+    display:flex;
+    justify-content: space-between;
+}
+.company{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 50%;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    line-height: 0;
+}
+.us{
+    display: flex;
+    flex-direction: column;
+    line-height: 0;
+}
+.contact{
+    min-width: 40%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 25px;
+}
