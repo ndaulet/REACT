@@ -4,14 +4,14 @@
     gap: 10px;
 
     input {
-        border: 1px solid teal;
-        color: teal;
+        border: 1px solid violet;
+        color: violet;
         padding: 7px;
         font-size: 18px;
         width: 100%;
 
         &:focus {
-            outline: 1px solid teal;
+            outline: 1px solid violet;
         }
     }
 
@@ -20,7 +20,7 @@
         padding: 4px 10px;
         font-weight: bold;
         text-transform: uppercase;
-        background-color: teal;
+        background-color: violet;
         color: white;
         cursor: pointer;
         transition: transform 0.2s ease-out;
